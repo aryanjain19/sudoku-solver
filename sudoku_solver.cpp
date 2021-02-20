@@ -1,7 +1,7 @@
 //sudoku solver
 //put 0 in place of blanks
 //author - aryan jain
-//date - 2/7/2021
+//date - 7/1/2021
 #include<iostream>
 using namespace std;
 int check(int u[][9], int row, int col, int n)
